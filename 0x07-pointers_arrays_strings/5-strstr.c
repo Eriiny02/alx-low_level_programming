@@ -1,5 +1,6 @@
 #include "main.h"
-/
+#include "stdio.h"
+/*
  * _strstr - locates substring
  * @haystack: string to locte
  * @needle: substring to locate
